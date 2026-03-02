@@ -1,0 +1,6 @@
+
+        driver.manage().window().maximize();
+        driver.manage().window().minimize();
+
+        getTitle()-- titles
+        getCurrentURL()-- current url pages
